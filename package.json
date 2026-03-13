@@ -1,0 +1,21 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "1er tp con node",
+  "homepage": "https://github.com/jazarbe/tp2-node#readme",
+  "bugs": {
+    "url": "https://github.com/jazarbe/tp2-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazarbe/tp2-node.git"
+  },
+  "license": "ISC",
+  "author": "Jazmin Arias y Diana Park",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
