@@ -32,3 +32,24 @@ const alumno2 = new Alumno("Maria", "87654321");
 console.log(alumno1);
 console.log(alumno2);
 //  #endregion
+
+// #region EJ4
+import copiar from './src/modules/fileSystem.js';
+
+// #endregion
+
+// #region EJ5
+import parsearUrl from './src/modules/url.js';
+
+const urlString = "http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2022&mes=mayo";
+console.log(parsearUrl(urlString));
+// #endregion
+
+// #region EJ6
+const urlError = "http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2022&mes=mayo";
+console.log(parsearUrl(urlError));
+// #endregion
+
+// #region EJ7
+
+// #endregion
