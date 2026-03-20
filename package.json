@@ -19,9 +19,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "aleatorio": "^1.1.0",
     "country-list": "^2.4.1",
     "currency-codes": "^2.2.0",
     "i18n-iso-countries": "^7.14.0",
-    "iso-country-currency": "^0.7.2"
+    "iso-country-currency": "^0.7.2",
+    "yoctocolors": "^2.1.2"
   }
 }

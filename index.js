@@ -51,5 +51,7 @@ console.log(parsearUrl(urlError));
 // #endregion
 
 // #region EJ7
+import textoPintado from './src/modules/color.js';
 
+textoPintado();
 // #endregion
